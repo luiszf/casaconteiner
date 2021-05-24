@@ -1,5 +1,8 @@
-- 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me: luisfernandodass@gmail.com
+# Olá, meu nome é Luis, tenho 18 anos!
+
+- :mortar_board: Estou aprendendo JavaScript & Web Design (e tudo relacionado a front-end)
+- :computer:Estou cursando Análise e Desenvolvimento de Sistemas na UNIP
+- :bell: Me contate: luisfernando.netlify.app/
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfernandodass&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="luisfernandodass"/></p>
 
