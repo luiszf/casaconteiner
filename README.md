@@ -1,5 +1,3 @@
-# Olá, meu nome é Luis, tenho 18 anos!
-
 - :mortar_board:  Estou aprendendo JavaScript & Web Design (e tudo relacionado a front-end)
 - :computer: Curso Análise e Desenvolvimento de Sistemas na UNIP
 - :bell:  Me contate: https://luisfernando.netlify.app/
