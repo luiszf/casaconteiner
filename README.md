@@ -2,8 +2,7 @@
 :mortar_board: Curso Análise e Desenvolvimento de Sistemas na UNIP.<br>
 :bell: Me contate: https://luisfernando.netlify.app/
 
-<p align="center">![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-</p>
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/luisfernandodass/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luisfernandodass" color="white" height="30" width="30" /></a>
