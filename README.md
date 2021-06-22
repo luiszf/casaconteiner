@@ -1,5 +1,5 @@
 :mortar_board: Estou cursando JavaScript ES6+ da Origamid.<br>
-:computer: Curso Análise e Desenvolvimento de Sistemas na UNIP
+:computer: Curso Análise e Desenvolvimento de Sistemas na UNIP.<br>
 :bell: Me contate: https://luisfernando.netlify.app/
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisfernandodass&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="luisfernandodass"/></p>
