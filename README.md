@@ -1,4 +1,4 @@
-:mortar_board: Curso Análise e Desenvolvimento de Sistemas<br>
+:mortar_board: Curso Análise e Desenvolvimento de Sistemas.<br>
 :computer: Estou cursando JavaScript ES6+ da Origamid.<br>
 :bell: Me contate: https://luisfernando.netlify.app/
 
